@@ -1,4 +1,4 @@
 interface:
   display_name: "Tilon Film"
-  short_description: "电影级 AI 短片导演、角色一致性、即梦画布预生产与成片复核"
-  default_prompt: "使用 $tilon-film-skill 把我的创意制作成可执行、可审核的电影短片方案，并按当前授权推进。"
+  short_description: "逐秒详细调度、表演服化道、即梦画布引用与预算生成流程"
+  default_prompt: "使用 $tilon-film-skill 将我的创意写成包含表演、服化道、空间、运镜与声音的详细子镜头，默认无 BGM 无字幕，并按当前授权推进画布制作。"
