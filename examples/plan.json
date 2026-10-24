@@ -1,0 +1,21 @@
+{
+  "stage": "preproduction",
+  "shots": [{
+    "id": "01-stall",
+    "duration": 15,
+    "node_duration": 15,
+    "status": "draft",
+    "characters": ["A", "B"],
+    "references": ["A", "B"],
+    "beats": [
+      {"start": 0, "end": 4, "action": "清晨村口，A翻饼，B拎水桶靠近；稳定双人中景。"},
+      {"start": 4, "end": 10, "action": "B说完后，镜头向右侧移，露出排队村民。"},
+      {"start": 10, "end": 15, "action": "A看向队伍再看B，留出反应；左侧日光方向不变。"}
+    ],
+    "dialogue": [
+      {"start": 1, "end": 3, "speaker": "A", "text": "吃了不烧心！"},
+      {"start": 5, "end": 7, "speaker": "B", "text": "先给我来十个。"},
+      {"start": 11, "end": 13, "speaker": "A", "text": "你这是把全村叫来了？"}
+    ]
+  }]
+}
