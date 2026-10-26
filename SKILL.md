@@ -18,6 +18,7 @@ description: 为 Codex 编写电影与短剧详细调度及聚焦的模型提示
 ## 按任务读取
 
 - 编剧、采访、爽剧与快嘴对白：[故事与表演](references/story-and-performance.md)。
+- 用户选择网络短剧风格：[网络短剧](references/network-short-drama.md)，按人物关系与情绪变化设计覆盖机位，不覆盖其它风格。
 - 从简单场景写提示词、提炼视觉重点或压缩导演稿：[聚焦与提示词编译](references/focus-and-prompt-compilation.md)；[渡轮与托盘示例](examples/focused-prompts.md)。
 - 写任何执行分镜，必读[详细子镜头模板](references/detailed-shot-template.md)与[摄影与空间](references/camera-and-space.md)；完整 15 秒样例见 [examples/detailed-15s.txt](examples/detailed-15s.txt)。
 - 定妆、多角度人物、跨镜一致性：[人物与连续性](references/identity-and-continuity.md)。
