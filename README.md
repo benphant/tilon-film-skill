@@ -27,11 +27,12 @@ git clone https://github.com/benphant/tilon-film-skill.git ~/.codex/skills/tilon
 - 一个 15 秒生成片段可以拆为 3+5+4+3 秒的子镜头，连续覆盖时间，不只写对白。
 - 每个子镜头控制人物的眼神、微表情、动作先后、站位、道具归属与服装状态。
 - 摄影机有信息动机、起终点、距离、路径与适量呼吸，固定光源和背景活动遵守空间逻辑。
+- 导演稿保留详细调度，模型提示词突出视觉中心与落点；复杂接触写清先后，简单场面不额外堆事件。
 - 三视图需要时是一张图里的同一人三角度；角色通过真实媒体引用传递，名称不能代替绑定。
 - 画布流程覆盖新建/复用、导入、主体、正文引用、保存草稿、报价授权、提交与中断恢复。
 - 区分已保存、已受理、生成完成与审片通过，不盲目重复扣费。
 
-入口：[SKILL.md](SKILL.md) · [详细调度模板](references/detailed-shot-template.md) · [完整 15 秒样例](examples/detailed-15s.txt) · [画布操作](references/canvas-production.md) · [来源及署名](references/sources.md)。
+入口：[SKILL.md](SKILL.md) · [详细调度模板](references/detailed-shot-template.md) · [聚焦与提示词编译](references/focus-and-prompt-compilation.md) · [渡轮与托盘示例](examples/focused-prompts.md) · [完整 15 秒样例](examples/detailed-15s.txt) · [画布操作](references/canvas-production.md) · [来源及署名](references/sources.md)。
 
 ## 离线检查
 
